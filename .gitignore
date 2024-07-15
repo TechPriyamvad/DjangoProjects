@@ -1,0 +1,17 @@
+# Ignore compiled Python files
+#*.pyc
+#__pycache__/
+
+# Ignore Django settings files (containing sensitive information)
+pollApp/settings.py
+#pollApp/settings_dev.py
+
+# Ignore virtual environment
+
+# Ignore database file
+
+# Ignore system directories
+# /bin/
+#/lib/
+#/lib64/
+#/include/
